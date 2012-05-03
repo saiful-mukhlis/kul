@@ -1,0 +1,11 @@
+git remote add origin git@github.com:saiful-mukhlis/kul.git
+
+git push –u origin master
+
+"C:\Program Files\Git\bin\wish.exe" "C:\Program Files\Git\libexec\git-core\git-gui"
+
+N:\github\bin>wish.exe "C:\Program Files\Git\libexec\git-core\git-gui"
+
+N:\github\bin>wish.exe "C:\Program Files\Git\libexec\git-core\git-gui"
+
+N:\github\bin>wish.exe "n:\github\libexec\git-core\git-gui"
